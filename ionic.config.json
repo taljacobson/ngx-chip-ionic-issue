@@ -1,5 +1,6 @@
 {
   "name": "ngx-chip-ionic-issue",
   "app_id": "",
-  "type": "ionic-angular"
+  "type": "ionic-angular",
+  "integrations": {}
 }
