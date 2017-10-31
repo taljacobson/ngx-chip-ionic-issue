@@ -2,7 +2,7 @@
 
 ## steps to repreduce
 ```sh
-  git clone 
+  git clone https://github.com/taljacobson/ngx-chip-ionic-issue.git
   npm install
 ```
 
