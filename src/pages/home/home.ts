@@ -7,7 +7,7 @@ import { NavController, IonicPage } from 'ionic-angular';
   templateUrl: 'home.html'
 })
 export class HomePage {
-
+  items = ['Pizza', 'Pasta', 'Parmesan'];
   constructor(public navCtrl: NavController) {
 
   }
